@@ -36,10 +36,6 @@ mini_ecommerce_backend/
 
 ├── README.md
 
-├── data/
-
-└── screenshots/
-
 ## Database Tables
 
 * users
